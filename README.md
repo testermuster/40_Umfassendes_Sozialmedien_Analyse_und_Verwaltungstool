@@ -1,0 +1,2 @@
+# 40_Umfassendes_Sozialmedien_Analyse_und_Verwaltungstool
+Eine Plattform, die soziale Medientrends analysiert und Inhaltsverwaltung bietet.
